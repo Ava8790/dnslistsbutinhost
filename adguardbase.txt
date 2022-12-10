@@ -1234,7 +1234,7 @@
 0.0.0.0 adsmeda.com
 0.0.0.0 adspeed.net
 0.0.0.0 adspynet.com
-0.0.0.0 adsrvmedia.adk2.co$important
+0.0.0.0 adsrvmedia.adk2.co
 0.0.0.0 adtech.com
 0.0.0.0 adtomafusion.net
 0.0.0.0 aff.camplace.com
@@ -27026,8 +27026,8 @@
 0.0.0.0 youmi.net
 0.0.0.0 recreativ.ru
 0.0.0.0 hqsjc.com
-0.0.0.0 deloton.com$important
-0.0.0.0 oclasrv.com$important
+0.0.0.0 deloton.com
+0.0.0.0 oclasrv.com
 0.0.0.0 jfduv7.com
 0.0.0.0 n152adserv.com
 0.0.0.0 rg.yottos.com
@@ -32722,7 +32722,7 @@
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.welt.de
 0.0.0.0 pixel.wp.com
-0.0.0.0 pixel.wp.pl$important
+0.0.0.0 pixel.wp.pl
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixelappcollector.thesun.co.uk
 0.0.0.0 pixel.randi.adswizz.com
@@ -40536,7 +40536,7 @@
 0.0.0.0 banners.prikol.ru
 0.0.0.0 banshop.gruntovik.ru
 0.0.0.0 bet.championat.com
-0.0.0.0 bet.championat.com$important
+0.0.0.0 bet.championat.com
 0.0.0.0 tea.pornolomka.video
 0.0.0.0 bn.kino-go.co
 0.0.0.0 bn.take-profit.org
